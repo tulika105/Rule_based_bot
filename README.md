@@ -1,4 +1,3 @@
-# Simple-rule_based_chatbot
 # User Interface
 - Designed with a Tkinter GUI.
 - Includes a scrollable chat area to display conversation history.
